@@ -12,7 +12,12 @@ Pythonを勉強する会で使う資料
   - Geminiを使用してどんな画像かを調べる
 - [2024/08/24_Pythonでできる事](https://www.evernote.com/shard/s121/sh/ba78c487-2540-b540-1512-ebaa3f83b519/61uwUGufaEhiMlRC-HKF3S7-yHwWx8GB6wiGuTXqzGyRoLj0Wml_G5CpVA)
   - スクレイピングについて
+    - 東京オープンデータカタログ
+    - しごとナビ（ブログ記事）
+  - WordCloud
+    - janome 形態素解析
   - PDFの分割・結合などPDF操作
   - 画像のリサイズ
   - API経由での情報取得
+    - 楽天トラベル系のAPI
 
